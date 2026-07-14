@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
