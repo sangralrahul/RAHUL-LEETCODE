@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0010-regular-expression-matching) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
