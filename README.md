@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0037-sudoku-solver) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0037-sudoku-solver) |
 ## Trie
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -146,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
