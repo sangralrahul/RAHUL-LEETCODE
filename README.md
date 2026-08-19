@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -188,8 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0068-text-justification) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
