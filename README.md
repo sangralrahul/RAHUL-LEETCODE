@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0076-minimum-window-substring) |
 ## Trie
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/sangralrahul/RAHUL-LEETCODE/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
